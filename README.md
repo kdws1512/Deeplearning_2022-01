@@ -1,4 +1,4 @@
-# kdw 
+# Deep_Learing Lecture
 
 ## RPA를 위한 인공지능 과정
 
