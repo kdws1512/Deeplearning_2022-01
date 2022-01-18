@@ -3,6 +3,7 @@ exercise1.ipynb
 creditcard.csv
 model/
 OpinosisDataset1.0/
+kaggle.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
